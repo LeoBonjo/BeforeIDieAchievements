@@ -852,5 +852,17 @@
   </a>
 </td>
 <!-- End of column-3 -->
+<!-- Start of column-4 -->
+<td align="center">
+  <a href="https://github.com/LeoBonjo">
+    <img
+      src="https://avatars.githubusercontent.com/u/139697327?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Leo Bonjo</sub>
+  </a>
+</td>
+<!-- End of column-4 -->
   </tr>
 </table>
